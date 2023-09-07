@@ -1,3 +1,4 @@
+/*************************TAG SELECTORS***************************/
 body {
 
    background-color: #C8E4B2;           
@@ -18,4 +19,10 @@ h3 {
 hr  {
    background-color: white;
    border-style: hidden;
+}
+
+/*************************CLASS SELECTORS***************************/
+
+.circular {
+   border-radius: 100%;
 }
